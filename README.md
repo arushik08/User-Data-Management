@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# User Data Management App
+
+This is a responsive React application that allows users to input their data, view it on the UI, and perform editing and deletion operations.
+
+## Features
+
+- **User Data Input**: Users can enter their personal information through a form.
+- **Data Display**: The submitted user data is displayed on the UI in a user-friendly manner.
+- **Edit Functionality**: Users can edit their previously entered data by clicking the "Edit" button corresponding to their entry.
+- **Delete Functionality**: Users can remove their data from the UI by clicking the "Delete" button associated with their entry.
+- **Responsive Design**: The application is built with a responsive layout, ensuring a seamless experience across various devices and screen sizes.
+
+## Technologies Used
+
+- React.js
+- React Hooks (useState, useEffect)
+- CSS/CSS Modules (for styling)
+- HTML5
